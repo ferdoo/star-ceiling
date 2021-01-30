@@ -1,0 +1,96 @@
+Partlist
+
+Exported from Hviezdy.sch at 4/1/2016 1:06 AM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device           Package  Library          Sheet
+
+JP1                     PINHD-1X12       1X12     pinhead          1
+JP2                     PINHD-1X12       1X12     pinhead          1
+JP3                     PINHD-1X2        1X02     pinhead          1
+JP4      RX-4MHCS       PINHD-1X14       1X14     pinhead          1
+JP5                     JP1E             JP1      jumper           1
+JP6                     PINHD-1X12       1X12     pinhead          1
+JP7                     PINHD-1X12       1X12     pinhead          1
+JP8                     PINHD-1X1        1X01     pinhead          1
+JP9                     PINHD-1X1        1X01     pinhead          1
+JP10                    PINHD-1X1        1X01     pinhead          1
+JP11                    PINHD-1X1        1X01     pinhead          1
+JP12                    PINHD-1X1        1X01     pinhead          1
+LED1     1W             LED5MM           LED5MM   led              1
+LED2     1W             LED5MM           LED5MM   led              1
+LED3     1W             LED5MM           LED5MM   led              1
+LED4     1W             LED5MM           LED5MM   led              1
+LED5     1W             LED5MM           LED5MM   led              1
+LED6     1W             LED5MM           LED5MM   led              1
+LED7     0,5W           LED10MM          LED10MM  led              1
+LED8     0,5W           LED10MM          LED10MM  led              1
+LED9     0,5W           LED10MM          LED10MM  led              1
+LED10    0,5W           LED10MM          LED10MM  led              1
+LED11    0,5W           LED10MM          LED10MM  led              1
+LED12    0,5W           LED10MM          LED10MM  led              1
+LED13    0,5W           LED10MM          LED10MM  led              1
+LED14    0,5W           LED10MM          LED10MM  led              1
+LED15    0,5W           LED10MM          LED10MM  led              1
+LED16    0,5W           LED10MM          LED10MM  led              1
+LED17                   LED3MM           LED3MM   led              1
+LED18    3W             LED5MM           LED5MM   led              1
+LED19    3W             LED5MM           LED5MM   led              1
+LED20    3W             LED5MM           LED5MM   led              1
+LED21    3W             LED5MM           LED5MM   led              1
+LED22    3W             LED5MM           LED5MM   led              1
+LED23    3W             LED5MM           LED5MM   led              1
+LED24                   LED3MM           LED3MM   led              1
+LED25                   LED3MM           LED3MM   led              1
+LED26                   LED3MM           LED3MM   led              1
+Q1                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q2                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q3                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q4                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q5                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q6                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q8                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q9                      PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q10                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q11                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q12                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q13                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q15                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q16                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q17                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q18                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q19                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q20                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q21                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q22                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q23                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+Q24                     PMOSFET_NTO220BV TO220BV  transistor-power 1
+R1       12R 1W         R-EU_0922V       0922V    rcl              1
+R2       12R 1W         R-EU_0922V       0922V    rcl              1
+R3       12R 1W         R-EU_0922V       0922V    rcl              1
+R4       12R 1W         R-EU_0922V       0922V    rcl              1
+R5       12R 1W         R-EU_0922V       0922V    rcl              1
+R6       12R 1W         R-EU_0922V       0922V    rcl              1
+R7       12R 1W         R-EU_0309/12     0309/12  rcl              1
+R8       12R 1W         R-EU_0309/12     0309/12  rcl              1
+R9       12R 1W         R-EU_0309/12     0309/12  rcl              1
+R10      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R11      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R12      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R13      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R14      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R15      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R16      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R17      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R18      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R19      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R20      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R21      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R22      12R 1W         R-EU_0309/12     0309/12  rcl              1
+R23      330R           R-EU_0207/12     0207/12  resistor         1
+R24      330R           R-EU_0207/12     0207/12  resistor         1
+R25      330R           R-EU_0207/12     0207/12  resistor         1
+X1                      234-202          234-202  con-wago         1
